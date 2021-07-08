@@ -86,15 +86,15 @@ appointment_url: ""
 
 # Contact links
 # Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links: []
+contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/mitchellolstho'
+    link: "https://twitter.com/mitchellolstho"
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:mitchellolsthoorn?call'
+    link: "skype:mitchellolsthoorn?call"
 #  - icon: keybase
 #    icon_pack: fab
 #    name: Chat on Keybase
