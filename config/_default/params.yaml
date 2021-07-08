@@ -53,27 +53,27 @@ twitter: 'mitchellolstho'
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to ''.
-email: ''
-phone: ''
+email: 'M.J.G.Olsthoorn@tudelft.nl'
+phone: '+31 15 27 87157'
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address:
-  street: ''
-  city: ''
-  region: ''
-  postcode: ''
-  country: ''
-  country_code: ''
+  street: Van Mourik Broekmanweg 6
+  city: Delft
+  region: South-Holland
+  postcode: 2628 XE
+  country: The Netherlands
+  country_code: NL
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates:
-  latitude: ''
-  longitude: ''
+  latitude: '37.4275'
+  longitude: '-122.1697'
 
 # Directions for visitors to locate you.
-directions: ''
+directions: '28.4.W700'
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
