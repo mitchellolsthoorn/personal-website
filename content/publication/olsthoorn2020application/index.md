@@ -6,11 +6,14 @@ authors:
   - Mitchell Olsthoorn
   - Pouria Derakhshanfar
   - Xavier Devroey
-date: 2021-07-09T00:49:06+02:00
+
+# The date it was published
+date: 2020-09-30
 doi: "10.1007/978-3-030-59762-7_17"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-07-09T00:49:06+02:00
+# Use the paper notification date
+publishDate: 2020-07-06
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,7 +48,7 @@ featured: false
 
 url_pdf: https://research.tudelft.nl/files/81877549/ssbse_challenge_2020_CR.pdf
 url_code: http://doi.org/10.5281/zenodo.3963956
-url_dataset:
+url_dataset: http://doi.org/10.5281/zenodo.3963956
 url_poster:
 url_project:
 url_slides:

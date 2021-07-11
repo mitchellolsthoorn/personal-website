@@ -6,11 +6,14 @@ authors:
   - Mitchell Olsthoorn
   - Arie van Deursen
   - Annibale Panichella
-date: 2021-07-08T23:05:11+02:00
+
+# The date it was published
+date: 2020-12-21
 doi: "10.1145/3324884.3418930"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-07-08T23:05:11+02:00
+# Use the paper notification date
+publishDate: 2020-07-03
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -46,7 +49,7 @@ featured: false
 
 url_pdf: "https://research.tudelft.nl/files/82771549/ASE_2020_Pure.pdf"
 url_code: "https://doi.org/10.5281/zenodo.4001744"
-url_dataset:
+url_dataset: "https://doi.org/10.5281/zenodo.4001744"
 url_poster:
 url_project:
 url_slides:

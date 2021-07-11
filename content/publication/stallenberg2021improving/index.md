@@ -6,11 +6,14 @@ authors:
   - Dimitri Stallenberg
   - Mitchell Olsthoorn
   - Annibale Panichella
-date: 2021-07-09T01:25:59+02:00
+
+# The date it was published
+date: 2021-07-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-07-09T01:25:59+02:00
+# Use the paper notification date
+publishDate: 2021-07-07
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
