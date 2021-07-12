@@ -3,9 +3,9 @@
 
 title: "Devid: Blockchain-based portfolios for software developers"
 authors:
-- Martijn de Vos
-- Mitchell Olsthoorn
-- Johan Pouwelse
+  - Martijn de Vos
+  - Mitchell Olsthoorn
+  - Johan Pouwelse
 
 # The date it was published
 date: 2019-08-01
@@ -30,7 +30,9 @@ abstract: "Decentralized applications, also known as dApps, are the new paradigm
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags:
+  - Blockchain
+  - Application
 categories: []
 featured: false
 
