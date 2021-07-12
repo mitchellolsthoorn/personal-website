@@ -4,7 +4,7 @@
 ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fwww.mitchellolsthoorn.com)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.mitchellolsthoorn.com)
 
-This repos contains the sources for my personal website.
+This repo contains the sources for my personal website.
 The website uses the open-source static site generator [Hugo](https://gohugo.io/) for building the website.
 It is based on the [Wowchemy](https://wowchemy.com/) theme and is hosted on [Netlify](https://www.netlify.com/).
 
