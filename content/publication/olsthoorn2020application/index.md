@@ -46,9 +46,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://research.tudelft.nl/files/81877549/ssbse_challenge_2020_CR.pdf
-url_code: http://doi.org/10.5281/zenodo.3963956
-url_dataset: http://doi.org/10.5281/zenodo.3963956
+url_pdf: "https://research.tudelft.nl/files/81877549/ssbse_challenge_2020_CR.pdf"
+url_code: "http://doi.org/10.5281/zenodo.3963956"
+url_dataset: "http://doi.org/10.5281/zenodo.3963956"
 url_poster:
 url_project:
 url_slides:
