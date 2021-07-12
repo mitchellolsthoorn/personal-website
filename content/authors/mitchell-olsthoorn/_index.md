@@ -27,6 +27,7 @@ interests:
   - Test Case Generation
   - Security Testing
   - Fuzzing
+  - Blockchain
 
 # Education to show in About widget
 education:
