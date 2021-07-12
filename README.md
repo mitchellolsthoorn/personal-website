@@ -23,7 +23,7 @@ To preview the website:
 
 When an error occurs during building, try deleting the local Hugo cache:
 
-- MacOS/Linux: sudo rm -rf $TMPDIR/hugo_cache/
+- MacOS/Linux: `sudo rm -rf $TMPDIR/hugo_cache/`
 
 ## Deploy website
 
