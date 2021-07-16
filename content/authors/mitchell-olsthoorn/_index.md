@@ -25,6 +25,7 @@ bio: >
 interests:
   - Search-based Software Engineering
   - Test Case Generation
+  - Software Testing
   - Security Testing
   - Fuzzing
   - Blockchain
