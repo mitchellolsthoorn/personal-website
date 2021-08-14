@@ -1,5 +1,7 @@
 # Personal Website
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/mitchellolsthoorn/personal-website)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ff9f6e08-d300-4f53-9695-a42bd08adf57/deploy-status)](https://app.netlify.com/sites/mitchellolsthoorn/deploys)
 ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fwww.mitchellolsthoorn.com)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.mitchellolsthoorn.com)
