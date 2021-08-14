@@ -59,9 +59,7 @@ phone: "+31 15 27 87157"
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address:
-  street: >
-    Building 28, Room 28.4.W700,
-    Van Mourik Broekmanweg 6
+  street: Van Mourik Broekmanweg 6
   city: Delft
   region: South-Holland
   postcode: 2628 XE
@@ -75,7 +73,7 @@ coordinates:
   longitude: "-122.1697"
 
 # Directions for visitors to locate you.
-directions: ""
+directions: Room 28.4.W700 (building 28)
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
