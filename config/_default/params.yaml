@@ -294,6 +294,7 @@ map:
 
 marketing:
   google_analytics: "G-H9D2XPFJE9"
+  google_optimize: ""
   google_tag_manager: ""
   google_site_verification: ""
   baidu_site_verification: ""
