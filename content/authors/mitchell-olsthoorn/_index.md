@@ -35,7 +35,7 @@ education:
   courses:
     - course: Ph.D. in Computational Intelligence (Software Engineering)
       institution: Delft University of Technology
-      year: Ongoing
+      year: 2023
     - course: M.Sc. in Cybersecurity (Computer Science)
       institution: Delft University of Technology
       year: 2020
