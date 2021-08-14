@@ -60,6 +60,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=djxFT8IAAAAJ
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/mitchellolsthoorn
