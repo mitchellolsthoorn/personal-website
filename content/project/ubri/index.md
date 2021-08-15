@@ -6,8 +6,8 @@ summary: >
   UBRI is a partnership between Ripple and top universities around the world to support academic research, technical development and innovation in blockchain, cryptocurrency, and digital payments.
   Ripple is providing both financial and technical resources to university partners and collaborates with faculty and students on research and technical projects.
 authors:
-  - annibale-panichella
-  - mitchell-olsthoorn
+  - Annibale Panichella
+  - Mitchell Olsthoorn
 tags: []
 categories: []
 date: 2019-7-1
