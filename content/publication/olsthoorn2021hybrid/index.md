@@ -19,7 +19,7 @@ publishDate: 2021-06-30
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "13th International Symposium on Search-Based Software Engineering"
@@ -45,12 +45,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
-url_dataset:
+url_pdf: https://research.tudelft.nl/en/publications/hybrid-multi-level-crossover-for-unit-test-case-generation
+url_code: https://github.com/mitchellolsthoorn/SSBSE-Research-2021-crossover-replication
+url_dataset: https://github.com/mitchellolsthoorn/SSBSE-Research-2021-crossover-replication
 url_poster:
 url_project:
-url_slides:
+url_slides: https://www.slideshare.net/PouriaDerakhshanfar/hybrid-multilevel-crossover-for-unit-test-case-generation-ssbse-2021-250420326
 url_source:
 url_video:
 
