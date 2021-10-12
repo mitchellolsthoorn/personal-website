@@ -9,7 +9,7 @@ authors:
 
 # The date it was published
 date: 2021-07-01
-doi: ""
+doi: "10.1007/978-3-030-88106-1_6"
 
 # Schedule page publish date (NOT publication's date).
 # Use the paper notification date
