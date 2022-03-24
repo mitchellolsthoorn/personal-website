@@ -47,7 +47,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://research.tudelft.nl/files/82771549/ASE_2020_Pure.pdf"
+url_pdf: "https://research.tudelft.nl/en/publications/generating-highly-structured-input-data-by-combining-search-based"
 url_code: "https://doi.org/10.5281/zenodo.4001744"
 url_dataset: "https://doi.org/10.5281/zenodo.4001744"
 url_poster:

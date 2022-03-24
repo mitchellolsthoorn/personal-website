@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Devid: Blockchain-based portfolios for software developers"
+title: "DevID: Blockchain-based portfolios for software developers"
 authors:
   - Martijn de Vos
   - Mitchell Olsthoorn
@@ -44,7 +44,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://research.tudelft.nl/files/55377155/paper_camera_ready.pdf"
+url_pdf: "https://research.tudelft.nl/en/publications/devid-blockchain-based-portfolios-for-software-developers"
 url_code:
 url_dataset:
 url_poster:

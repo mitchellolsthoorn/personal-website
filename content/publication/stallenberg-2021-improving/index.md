@@ -9,7 +9,7 @@ authors:
 
 # The date it was published
 date: 2021-07-01
-doi: ""
+doi: "10.1109/ASE51524.2021.9678586"
 
 # Schedule page publish date (NOT publication's date).
 # Use the paper notification date
@@ -19,7 +19,7 @@ publishDate: 2021-07-07
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering"
@@ -47,7 +47,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://research.tudelft.nl/en/publications/improving-test-case-generation-for-rest-apis-through-hierarchical
 url_code:
 url_dataset:
 url_poster:
