@@ -2,4 +2,4 @@ module github.com/mitchellolsthoorn/personal-website
 
 go 1.15
 
-require github.com/wowchemy/wowchemy-hugo-modules/v5 v5.5.0
+require github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220322212951-5a882fab11ac
