@@ -17,7 +17,7 @@ publishDate: 2022-01-20
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 44th International Conference on Software Engineering Companion"
@@ -36,6 +36,7 @@ tags:
   - machine learning
 categories: []
 featured: false
+add_badge: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

@@ -38,6 +38,7 @@ tags:
   - EvoMaster
 categories: []
 featured: false
+add_badge: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
