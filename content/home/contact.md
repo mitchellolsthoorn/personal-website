@@ -52,7 +52,7 @@ content:
     - icon: skype
       icon_pack: fab
       name: Skype Me
-      link: "skype:mitchellolsthoorn?call"
+      link: "skype:mitchell.olsthoorn?call"
   #  - icon: keybase
   #    icon_pack: fab
   #    name: Chat on Keybase
