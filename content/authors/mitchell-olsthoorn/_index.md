@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-  Mitchell Olsthoorn is a Ph.D. student in the Software Engineering Research Group (SERG) at Delft University of Technology.
+  Mitchell Olsthoorn is a Postdoctoral researcher in the Software Engineering Research Group (SERG) at Delft University of Technology.
   He is also a member of the Computational Intelligence for Software Engineering lab (CISELab) and the Blockchain lab.
   Mitchell holds an M.Sc. degree in Computer Science – with a specialization in Cyber Security and Blockchain.
   His interests include network security, computational intelligence, and pen-testing.
@@ -35,7 +35,7 @@ education:
   courses:
     - course: Ph.D. in Computational Intelligence (Software Engineering)
       institution: Delft University of Technology
-      year: 2023
+      year: 2024
     - course: M.Sc. in Cybersecurity (Computer Science)
       institution: Delft University of Technology
       year: 2020
@@ -86,7 +86,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at [Delft University of Technology](https://www.tudelft.nl/).
+I am a Postdoctoral researcher in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at [Delft University of Technology](https://www.tudelft.nl/).
 I am also a member of the [Computational Intelligence for Software Engineering lab (CISELab)](https://www.ciselab.nl/) and the [Delft Blockchain Lab (DBL)](https://www.tudelft.nl/delft-blockchain-lab).
 I hold an M.Sc. degree in Computer Science – with a specialization in Cybersecurity and Blockchain Technologies.
 My interests include network security, computational intelligence, and pen-testing.
