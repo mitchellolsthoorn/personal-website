@@ -6,7 +6,7 @@ title: "Mitchell Olsthoorn"
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,11 +15,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-  Mitchell Olsthoorn is a Postdoctoral researcher in the Software Engineering Research Group (SERG) at Delft University of Technology.
+  Mitchell Olsthoorn is an Assistant Professor researcher in the Software Engineering Research Group (SERG) at Delft University of Technology.
   He is also a member of the Computational Intelligence for Software Engineering lab (CISELab) and the Blockchain lab.
-  Mitchell holds an M.Sc. degree in Computer Science – with a specialization in Cyber Security and Blockchain.
-  His interests include network security, computational intelligence, and pen-testing.
-  Mitchell is currently working on Security testing for blockchain.
+  Mitchell holds an Ph.D. degree in Computer Science – with a specialization in Computational Intelligence.
 
 # Interests to show in About widget
 interests:
@@ -33,7 +31,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computational Intelligence (Software Engineering)
+    - course: Ph.D. in Computational Intelligence (Software Engineering) with Cum laude (highest possible distinction in the Netherlands, awarded to top 5%)
       institution: Delft University of Technology
       year: 2024
     - course: M.Sc. in Cybersecurity (Computer Science)
@@ -86,8 +84,7 @@ social:
 highlight_name: true
 ---
 
-I am a Postdoctoral researcher in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at [Delft University of Technology](https://www.tudelft.nl/).
+I am an Assistant Professor in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at [Delft University of Technology](https://www.tudelft.nl/).
 I am also a member of the [Computational Intelligence for Software Engineering lab (CISELab)](https://www.ciselab.nl/) and the [Delft Blockchain Lab (DBL)](https://www.tudelft.nl/delft-blockchain-lab).
-I hold an M.Sc. degree in Computer Science – with a specialization in Cybersecurity and Blockchain Technologies.
+I hold an an Ph.D. degree in Computer Science – with a specialization in Computational Intelligence.
 My interests include network security, computational intelligence, and pen-testing.
-Currently, I am working on Security testing for blockchain.
